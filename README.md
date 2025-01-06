@@ -85,8 +85,8 @@ I am constantly improving my skills and learning new tools and techniques. Right
 
 I'm always open to collaborating, sharing insights, or discussing data-driven solutions. Feel free to reach out to me through the following:
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/sheik-faresh-537163341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: sfaresh52@gmail.com
 
 ---
 
