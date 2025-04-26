@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 Here are the tools and technologies I specialize in:
 
-### 🛠️ **MySQL*
+### 🛠️ **MySQL**
 ![MySQL Logo](https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png) <!-- MySQL icon -->
 - Proficient in querying, managing, and manipulating relational databases.
 - Experience in data modeling, optimization, and complex queries.
