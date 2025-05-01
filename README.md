@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 ---
 
-## 📊 Skills & Tool
+## 📊 Skills & ToolS
 
 Here are the tools and technologies I specialize in:
 
