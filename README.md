@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! I'm Sheik Faresh Ahamad, an Aspiring Data Analys
+ 👋 Hi there! I'm Sheik Faresh Ahamad, an Aspiring Data Analys
 
 
 Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and solving real-world problems through analysis. With expertise in various data tools and programming languages, I am on a journey to grow as a data analyst and contribute to exciting projects in the field of data science and analytics.
