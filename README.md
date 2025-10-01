@@ -51,8 +51,10 @@ I'm a full-stack developer and data enthusiast passionate about building intuiti
 ---
 
 ### 🌱 What I'm Exploring
+I'm currently focused on bridging the gap between technical implementation and user-centric product strategy. My goal is to leverage my development and data skills to help build products that solve real-world problems. My current areas of focus include:
 
-I'm currently focused on building robust, full-stack applications and diving deeper into the intersection of software development and data science. My goals include:
-- Exploring Machine Learning models to integrate predictive features into applications.
-- Mastering system design principles for scalable backend architecture.
-- Contributing to open-source projects.
+Deepening my understanding of user research and product discovery to better identify customer pain points and market opportunities.
+
+Learning product strategy frameworks for prioritization, roadmapping, and making effective, data-informed decisions.
+
+Developing skills in writing clear product specifications and communicating a product's vision to both technical and non-technical stakeholders.
