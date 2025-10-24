@@ -6,7 +6,7 @@ I'm a full-stack developer and data enthusiast passionate about building intuiti
 
 ### 📫 Get in Touch
 
-<a href="https://www.linkedin.com/in/sheik-faresh" target="_blank">
+<a href="https://www.linkedin.com/in/sheikfareshahamad/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:fareshahamad099@gmail.com">
