@@ -43,7 +43,7 @@ I'm a full-stack developer and data enthusiast passionate about building intuiti
       <p>An end-to-end Power BI project built from scratch to analyze the 2025 job market, creating custom visuals for salary benchmarks, skill demand, and hiring trends.</p>
       <strong>Tech:</strong> Power BI (End-to-End), DAX
       <br><br>
-      <a href="[LINK-TO-YOUR-JOB-MARKET-REPO]">View on GitHub</a>
+      <a href="https://github.com/FareshAhamad/india-analyst-job-market-2025.git">View on GitHub</a>
     </td>
   </tr>
 </table>
