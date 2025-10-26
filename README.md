@@ -36,7 +36,7 @@ I'm a full-stack developer and data enthusiast passionate about building intuiti
       <p>A full-stack mobile application to simplify group expense management, featuring OCR receipt scanning, real-time updates, and payment tracking.</p>
       <strong>Tech:</strong> React Native, Supabase, Next.js, TypeScript
       <br><br>
-      <a href="[LINK-TO-YOUR-SMART-SPLIT-REPO]">View on GitHub</a>
+      <a href="https://github.com/FareshAhamad/Smart-Split.git">View on GitHub</a>
     </td>
     <td width="50%" valign="top">
       <h3>India Data Analyst Job Market Analysis</h3>
