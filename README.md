@@ -112,11 +112,6 @@ Skilled in **exploratory data analysis (EDA), dashboard development, and busines
 
 Seeking a **Data Analyst role** to apply skills in SQL, Python, and Power BI to generate insights, improve decision-making, and solve business problems.
 
----
 
-## ⚡ Key Highlights  
 
-- ✔ Strong in SQL, Python, Power BI, Excel  
-- ✔ Experience with dashboards & real datasets  
-- ✔ Knowledge of EDA and data visualization  
-- ✔ Able to convert data into business insights  
+
