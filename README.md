@@ -1,95 +1,98 @@
-# 👋 Sheik Faresh Ahamad  
+<h1 align="center">Hi 👋, I'm Sheik Faresh Ahamad</h1>
+<h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Excel</h3>
 
-🎯 Data Analyst | SQL • Python • Power BI • Excel  
-📍 Karnataka, India  
+<p align="center">
+  📍 Karnataka, India  
+</p>
+
+<p align="center">
+  <a href="mailto:sfaresh52@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sheikfareshahamad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/FareshAhamad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📌 Professional Summary  
 
-Detail-oriented **Data Analyst** with hands-on experience in **data cleaning, data analysis, and data visualization** using Excel, SQL, Python, and Power BI.  
+Detail-oriented **Data Analyst** with experience in **data cleaning, analysis, and visualization** using **Excel, SQL, Python, and Power BI**.  
 
-Skilled in **exploratory data analysis (EDA), dashboard development, and business intelligence reporting**, with the ability to extract actionable insights and support data-driven decision-making.
-
----
-
-## 📫 Contact  
-
-- 📧 Email: sfaresh52@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sheikfareshahamad/  
-- 💻 GitHub: https://github.com/FareshAhamad  
+Skilled in **EDA, dashboard development, and business intelligence reporting**, with the ability to convert raw data into **actionable insights** that support decision-making.
 
 ---
 
-## 🛠️ Core Skills  
+## 🛠️ Tech Stack  
 
 ### 📊 Data Analytics  
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Dashboard Development  
-- Business Intelligence (BI)  
-- Trend Analysis & Reporting  
+<p>
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-607D8B?style=for-the-badge"/>
+</p>
 
 ### 🧰 Tools & Technologies  
-- Python (NumPy, Pandas basics)  
-- SQL (Joins, Aggregations, Queries)  
-- Power BI (DAX, Data Modeling, Dashboards)  
-- Excel (Pivot Tables, VLOOKUP, Data Cleaning)  
-- Google Sheets  
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+</p>
 
-### 💻 Supporting Skills  
-- React.js, Node.js, Next.js  
-- PostgreSQL, MySQL, Supabase  
-
-### 🤝 Soft Skills  
-- Analytical Thinking  
-- Problem Solving  
-- Communication  
-- Team Collaboration  
+### 💻 Development (Bonus)  
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Experience  
 
 ### 📊 Data Science Intern — CodeSoft *(Jan 2025 – Feb 2025)*  
-- Cleaned and preprocessed data using Python, SQL, and Excel  
-- Performed exploratory data analysis to identify trends  
-- Built Power BI dashboards for reporting  
-- Improved data accuracy and reporting efficiency  
+- Cleaned and preprocessed data using **Python, SQL, Excel**  
+- Performed **EDA to identify trends and patterns**  
+- Built **Power BI dashboards**  
+- Improved reporting efficiency  
 
 ---
 
 ### 💻 Full Stack Developer Intern — Webglide Solutions *(Jun 2025 – Sep 2025)*  
-- Developed dashboards and UI using React.js  
-- Built backend systems using Node.js and Supabase  
-- Collaborated on product requirements and feature design  
-- Delivered solutions for international clients  
+- Built dashboards and UI using **React.js**  
+- Developed backend using **Node.js & Supabase**  
+- Collaborated on product and feature development  
 
 ---
 
 ## 📊 Projects  
 
 ### 🔹 India Data Analyst Job Market Analysis  
-**Tech:** Power BI, DAX  
-- Built an end-to-end dashboard analyzing salary trends and hiring insights  
-- Applied data modeling and DAX  
+- Built **Power BI dashboard** analyzing salary & hiring trends  
+- Used **DAX and data modeling**  
 
 🔗 https://github.com/FareshAhamad/india-analyst-job-market-2025  
 
 ---
 
 ### 🔹 Netflix India Content Analysis  
-**Tech:** Python, NumPy  
-- Cleaned and analyzed dataset  
-- Identified content trends and audience preferences  
+- Data cleaning & analysis using **Python**  
+- Identified **content trends & audience insights**  
 
 ---
 
 ### 🔹 Smart Split – Expense Management App  
-**Tech:** React Native, Supabase, Next.js  
-- Built full-stack expense tracking app  
-- Implemented OCR and real-time updates  
+- Full-stack app with **OCR + real-time tracking**  
+- Built using **React Native & Supabase**  
 
 🔗 https://github.com/FareshAhamad/Smart-Split  
 
@@ -97,21 +100,29 @@ Skilled in **exploratory data analysis (EDA), dashboard development, and busines
 
 ## 🎓 Education  
 
-- MCA — Srinivas University *(2024–2025)*  
-- BCA — Milagres College *(2021–2023)*  
+🎓 MCA — Srinivas University *(2024–2025)*  
+🎓 BCA — Milagres College *(2021–2023)*  
 
 ---
 
 ## 📜 Certification  
 
-- Introduction to Data Concepts — IBM SkillsBuild *(2026)*  
+✔️ Introduction to Data Concepts — IBM SkillsBuild *(2026)*  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FareshAhamad&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FareshAhamad&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Career Objective  
 
-Seeking a **Data Analyst role** to apply skills in SQL, Python, and Power BI to generate insights, improve decision-making, and solve business problems.
-
+Seeking a **Data Analyst role** to leverage skills in **SQL, Python, Power BI, and data visualization** to deliver insights and support business decisions.
 
 
 
